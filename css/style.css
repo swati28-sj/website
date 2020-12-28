@@ -22,7 +22,7 @@ h2{
 h3{
   color: purple;
   font-size: 150%;
-  font-family: fantasy;
+  font-family: sans-serif;
   word-spacing: 5px;
 
 }
@@ -53,6 +53,9 @@ a:hover{
 .middle-container{
   margin: 80px;
 
+}
+.skills{
+  margin: 30px auto;
 }
 .skill-row{
   width: 50%;
